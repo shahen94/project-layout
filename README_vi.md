@@ -18,6 +18,7 @@ Các bản dịch:
 * [हिन्दी](README_hi.md)
 * [Беларуская](README_be.md)
 * [বাংলা](README_bn.md)
+* [Հայերեն](README_hy.md)
 
 ## Tổng quan
 
